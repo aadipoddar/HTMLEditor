@@ -1,0 +1,13 @@
+D:\LiveHTMLEditor\LiveHTMLEditor\bin\Debug\LiveHTMLEditor.exe.config
+D:\LiveHTMLEditor\LiveHTMLEditor\bin\Debug\LiveHTMLEditor.exe
+D:\LiveHTMLEditor\LiveHTMLEditor\bin\Debug\LiveHTMLEditor.pdb
+D:\LiveHTMLEditor\LiveHTMLEditor\bin\Debug\FastColoredTextBox.dll
+D:\LiveHTMLEditor\LiveHTMLEditor\bin\Debug\FastColoredTextBox.xml
+D:\LiveHTMLEditor\LiveHTMLEditor\obj\Debug\LiveHTMLEditor.csproj.AssemblyReference.cache
+D:\LiveHTMLEditor\LiveHTMLEditor\obj\Debug\LiveHTMLEditor.Form1.resources
+D:\LiveHTMLEditor\LiveHTMLEditor\obj\Debug\LiveHTMLEditor.Properties.Resources.resources
+D:\LiveHTMLEditor\LiveHTMLEditor\obj\Debug\LiveHTMLEditor.csproj.GenerateResource.cache
+D:\LiveHTMLEditor\LiveHTMLEditor\obj\Debug\LiveHTMLEditor.csproj.CoreCompileInputs.cache
+D:\LiveHTMLEditor\LiveHTMLEditor\obj\Debug\LiveHTMLEditor.csproj.CopyComplete
+D:\LiveHTMLEditor\LiveHTMLEditor\obj\Debug\LiveHTMLEditor.exe
+D:\LiveHTMLEditor\LiveHTMLEditor\obj\Debug\LiveHTMLEditor.pdb
